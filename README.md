@@ -28,12 +28,13 @@ This project served as the first live deployment milestone of my coding journey,
 ├── script.js # main js file 
 ├── style.css # main css file 
 └── README.md
+```
 
 ## Installation
 1. Clone the repo:
-```bash
-git clone https://github.com/<your-username>/manuwa.git
-
+```
+git clone git@github.com:websessed/websites.git
+```
 2. Open index.html in your browser.
 
 ## Contribution 
