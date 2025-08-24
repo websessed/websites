@@ -19,7 +19,7 @@ This project served as the first live deployment milestone of my coding journey,
 - **Hosting:** Vercel
 
 ## Project Structure
-/manuwa
+```/manuwa
 ├── assets/ # images, icons, and other media 
 ├── fonts/ # website fonts 
 ├── anim.css # css animations
