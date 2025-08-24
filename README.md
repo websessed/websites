@@ -20,11 +20,13 @@ This project served as the first live deployment milestone of my coding journey,
 
 
 ## Installation
-1. Clone the repo:
+1. Open a terminal
+   
+2. Clone the repo:
 ```
 git clone git@github.com:websessed/websites.git
 ```
-2. Open index.html in your browser.
+3. Open index.html in your browser.
    
 
 ## Contribution 
