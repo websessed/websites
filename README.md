@@ -18,17 +18,6 @@ This project served as the first live deployment milestone of my coding journey,
 - **Design:** Responsive layout
 - **Hosting:** Vercel
 
-## Project Structure
-```/manuwa
-├── assets/ # images, icons, and other media 
-├── fonts/ # website fonts 
-├── anim.css # css animations
-├── index.html # main landing page
-├── resp.css # responsive css
-├── script.js # main js file 
-├── style.css # main css file 
-└── README.md
-```
 
 ## Installation
 1. Clone the repo:
