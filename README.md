@@ -1,6 +1,6 @@
 # Manuwa
 
-[Live Demo](https://manuwa.vercel.app/)
+[Live Demo](https://paul-manuwa.vercel.app/)
 
 ## Overview
 **Manuwa** is a personal portfolio and project showcase website built to demonstrate frontend skills with modern web technologies. The site is responsive, interactive, and designed with clean UI/UX principles.
