@@ -26,7 +26,7 @@ This project served as the first live deployment milestone of my coding journey,
 ```
 git clone git@github.com:websessed/websites.git
 ```
-3. Open index.html in your browser.
+3. Under websites/manuwa, Open index.html in your browser.
    
 
 ## Contribution 
